@@ -1,5 +1,5 @@
-# https-drtomarswellness.com-shop-
-E-commerce shop for Dr. Tomar’s Wellness – offering plant-based, chemical-free remedies with secure checkout and product management
+[https-drtomarswellness.com-shop-
+](https://drtomarswellness.com/shop/)E-commerce shop for Dr. Tomar’s Wellness – offering plant-based, chemical-free remedies with secure checkout and product management
 Dr. Tomar’s Wellness 🌿 — Shop  
 
 This repository contains the **e-commerce shop** for Dr. Tomar’s Wellness, where users can browse and purchase natural remedies.  
